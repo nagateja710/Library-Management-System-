@@ -1,0 +1,21 @@
+0,icebreaker,hannah grace,370,5
+1,kite runner,khaled hosseini,650,20
+2,the silent patient,alex michaelides,550,7
+3,it ends with us,colleen hoover,525,18
+4,the girl in room 105,chetan bhagat,310,12
+5,love hypothesis,ali hazelwood,470,9
+6,the alchemist,paulo coelho,340,15
+7,when breath becomes air,paul kalanithi,200,13
+8,our missing hearts,celeste ng,420,14
+9,the unhoneymooners,christina lauren,390,10
+10,days at morisaki bookshop,satoshi yagisawa,300,16
+11,fen,daisy johnson,230,19
+12,the kite runner,khaled hosseini,650,19
+13,lovely bones,alice sebold,180,8
+14,my not so perfect life,sophie kinsella,580,17
+15,the guest list,lucy foley,430,10
+16,time travelers wife,audrey niffenegger,500,14
+17,pride and prejudice,jane austen,270,13
+18,fool me once,sophie kinsella,530,8
+19,the choice,nicholas sparks,680,16
+20,i let you go,clare mackintosh,360,9
